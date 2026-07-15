@@ -127,6 +127,6 @@ This project is licensed under the MIT License.
 
 ## ⭐ Acknowledgements
 
-This project was developed as part of the **Computer Vision and Machine Learning** coursework at **Amrita Vishwa Vidyapeetham**.
+This project was developed as part of the **Mathematics for Computing** coursework at **Amrita Vishwa Vidyapeetham**.
 
 ---

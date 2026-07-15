@@ -1,250 +1,132 @@
 # 🚀 Support Vector Machine (SVM) Implementation
 
-
-
-A Python implementation of **Support Vector Machine (SVM)** for supervised classification using **OpenCV** and **Scikit-learn**. This project demonstrates the complete machine learning workflow, including dataset generation, model training, prediction, visualization, and performance evaluation.
-
-
+A Computer Vision and Machine Learning project that demonstrates the implementation of a **Support Vector Machine (SVM)** classifier using **Python**, **OpenCV**, and **Scikit-learn**. The project covers the complete machine learning workflow, from dataset preparation to model evaluation and visualization.
 
 ---
-
-
 
 ## 📖 Overview
 
+Support Vector Machines (SVMs) are supervised machine learning algorithms widely used for classification tasks. This project demonstrates how an SVM learns optimal decision boundaries to accurately classify data samples.
 
+The notebook includes:
 
-Support Vector Machines (SVMs) are powerful supervised machine learning algorithms used for classification tasks. This project demonstrates the implementation of an SVM classifier to learn decision boundaries from labeled data and evaluate predictive performance.
-
-
-
-The notebook covers:
-
-
-
-- Dataset generation
-
+- Dataset generation and loading
 - Data preprocessing
-
 - SVM model training
-
 - Classification and prediction
-
 - Decision boundary visualization
-
-- Performance evaluation
-
-
+- Model performance evaluation
 
 ---
-
-
 
 ## ✨ Features
 
-
-
 - 📊 Synthetic dataset generation
-
-- 🤖 Support Vector Machine (SVM) training
-
-- 📈 Classification and prediction
-
+- 🤖 Support Vector Machine (SVM) classifier
+- 📈 Model training and prediction
 - 📉 Decision boundary visualization
-
 - 📋 Performance evaluation
-
 - 📓 Interactive Jupyter Notebook implementation
 
-
-
 ---
-
-
 
 ## 🛠️ Technologies Used
 
-
-
 | Category | Technologies |
-
-|----------|--------------|
-
+|-----------|--------------|
 | Programming Language | Python |
-
 | Machine Learning | Scikit-learn |
-
 | Computer Vision | OpenCV |
-
 | Numerical Computing | NumPy |
-
 | Visualization | Matplotlib |
-
 | Development Environment | Jupyter Notebook |
 
-
-
 ---
-
-
 
 ## 📂 Project Structure
 
-
-
 ```text
-
 Support-Vector-Machine-Implementation/
-
 │
-
 ├── Code.ipynb          # Main implementation notebook
-
 ├── README.md
-
 ├── LICENSE
-
 └── .gitignore
-
 ```
 
-
-
 ---
 
-
-
-## ⚙️ Workflow
-
-
+## ⚙️ Project Workflow
 
 1. Generate or load the dataset.
-
 2. Preprocess the input data.
-
 3. Train the Support Vector Machine classifier.
-
-4. Predict class labels for test data.
-
+4. Predict class labels for unseen data.
 5. Visualize the decision boundary.
-
-6. Evaluate model performance.
-
-
+6. Evaluate the classifier's performance.
 
 ---
-
-
 
 ## 📊 Results
 
-
-
-The notebook demonstrates:
-
-
+The project demonstrates:
 
 - Dataset visualization
-
-- SVM model training
-
-- Classification predictions
-
+- Trained SVM classifier
+- Prediction results
 - Decision boundary plots
-
-- Performance evaluation metrics
-
-
+- Model performance evaluation
 
 ---
-
-
 
 ## 🎯 Learning Outcomes
 
-
-
-This project demonstrates:
-
-
+This project demonstrates practical implementation of:
 
 - Supervised Machine Learning
-
 - Support Vector Machines (SVM)
-
 - Classification Algorithms
-
 - Data Preprocessing
-
 - Model Training and Prediction
-
+- Decision Boundary Visualization
 - Performance Evaluation
 
-- Data Visualization using Python
-
-
-
 ---
-
-
 
 ## 🔮 Future Improvements
 
-
-
 - Hyperparameter tuning using Grid Search
-
-- Cross-validation techniques
-
+- K-Fold Cross Validation
 - Multi-class classification
-
-- Real-world dataset implementation
-
-- Performance comparison with other classifiers
-
-
+- Real-world dataset integration
+- Performance comparison with other classification algorithms
 
 ---
-
-
 
 ## 👥 Team
 
-
-
 This project was developed by:
 
-
-
 | Name | Roll Number |
-
 |------|-------------|
-
 | **Bommisetty Nikhita** | CB.SC.U4AIE23119 |
-
 | **Mallipudi Sri Karthik** | CB.SC.U4AIE23149 |
-
 | **M. Kavya Srihitha** | CB.SC.U4AIE23167 |
-
 | **Kancharla Sanjana** | CB.SC.U4AIE23171 |
 
-
-
 **Institution:** Amrita Vishwa Vidyapeetham  
-
 **Program:** B.Tech in Computer Science (Artificial Intelligence)
-
-
 
 ---
 
-
-
 ## 📄 License
-
-
 
 This project is licensed under the MIT License.
 
+---
 
+## ⭐ Acknowledgements
 
+This project was developed as part of the **Computer Vision and Machine Learning** coursework at **Amrita Vishwa Vidyapeetham**.
+
+---
